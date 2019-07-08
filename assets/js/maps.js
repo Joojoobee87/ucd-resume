@@ -7,7 +7,6 @@ function initMap() {
         }
     });
 
-
     var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
     var locations = [
